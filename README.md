@@ -1,6 +1,24 @@
-# Please note
+```
+     _                               _           _ 
+    | |                             | |         | |
+  __| | ___ _ __  _ __ ___  ___ __ _| |_ ___  __| |
+ / _` |/ _ \ '_ \| '__/ _ \/ __/ _` | __/ _ \/ _` |
+| (_| |  __/ |_) | | |  __/ (_| (_| | ||  __/ (_| |
+ \__,_|\___| .__/|_|  \___|\___\__,_|\__\___|\__,_|
+           | |                                     
+           |_|                                     
+```
 
-Flight is **not under active development**. New pull requests will not be accepted unless they fix core bugs or security issues.
+Hi I'm Julien! __I am the owner of this repository.__
+
+This repository is now read-only and I will not accept any pull requests anymore. This package won't be published anymore either.
+
+If your application has a dependency to this package and you need to make some changes, you have two options:
+
+1. Make this package part of your application source tree.
+2. Fork this repository and manage everything else yourself.
+
+You can contact me on Slack or by email but know that __no expection will be made.__
 
 ---
 

@@ -1,0 +1,10 @@
+Mendeley-Team: Julien Gonzalez
+Mendeley-Types:
+Mendeley-Slack: #web
+Mendeley-Name:
+Mendeley-Description: DEPRECATED - DO NOT USE
+Mendeley-Zookeeper: N/A
+Mendeley-Secrets: N/A
+Mendeley-Runbook: N/A
+Mendeley-Database: N/A
+Mendeley-Notes: DEPRECATED - DO NOT USE
